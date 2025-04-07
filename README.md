@@ -1,5 +1,9 @@
 This goes through how to extract Formula 1 driver radios from the F1 website and convert them into readable files for Praat for Mac.
 
+This was done for an independent study (LING 399-0) at Northwestern University under Professor Ann Bradlow in the Winter 2025 quarter for the purposes of creating a F1 driver radio communications corpus.
+
+All materials in this repo are used under a free license.
+
 1. Download Video DownloadHelper extension from the Google Chrome Web Store.
 2. Access f1tv.formula1.com.
 3. Click on the desired race and then the desired driver radio (can be accessed through the sidebar on the right).
