@@ -1,0 +1,1 @@
+ffmpeg -i /Users/Me/dwhelper/XX.mp4 -vn -acodec pcm_s16le -ar 44100 -ac 2 /Users/Me/Desktop/XX.wav
